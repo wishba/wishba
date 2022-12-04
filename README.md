@@ -18,4 +18,5 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" />
 </div>
