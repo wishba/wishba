@@ -1,5 +1,6 @@
 <h1>Hi there 👋</h1>
 
+<!--
 <div style="display: flex; flex-wrap: wrap">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
@@ -13,6 +14,7 @@
 </div>
 
 <br>
+-->
 
 <div>
   <a href="https://github.com/wishba">
